@@ -1,7 +1,7 @@
 # CountryChecklist
 A List of countries I need to visit
 
-#A
+# A
 
     Afghanistan
     Albania
@@ -14,7 +14,7 @@ A List of countries I need to visit
     Australia
     Austria
 
-#B
+# B
 
     The Bahamas
     Bahrain
@@ -34,7 +34,7 @@ A List of countries I need to visit
     Burkina Faso
     Burundi
 
-#C
+# C
 
     Cabo Verde
     Cambodia
@@ -54,14 +54,14 @@ A List of countries I need to visit
     Cyprus
     Czech Republic
 
-#D
+# D
 
     Denmark
     Djibouti
     Dominica
     Dominican Republic
 
-#E
+# E
 
     East Timor (Timor-Leste)
     Ecuador
@@ -73,13 +73,13 @@ A List of countries I need to visit
     Eswatini
     Ethiopia
 
-#F
+# F
 
     Fiji
     Finland
     France
 
-#G
+# G
 
     Gabon
     The Gambia
@@ -92,13 +92,13 @@ A List of countries I need to visit
     Guinea-Bissau
     Guyana
 
-#H
+# H
 
     Haiti
     Honduras
     Hungary
 
-#I
+# I
 
     Iceland
     India
@@ -108,13 +108,13 @@ A List of countries I need to visit
     Ireland
     Israel
 
-#J
+# J
 
     Jamaica
     Japan
     Jordan
 
-#K
+# K
 
     Kazakhstan
     Kenya
@@ -125,7 +125,7 @@ A List of countries I need to visit
     Kuwait
     Kyrgyzstan
 
-#L
+# L
 
     Laos
     Latvia
@@ -137,7 +137,7 @@ A List of countries I need to visit
     Lithuania
     Luxembourg
 
-#M
+# M
 
     Madagascar
     Malawi
@@ -158,7 +158,7 @@ A List of countries I need to visit
     Mozambique
     Myanmar (Burma)
 
-#N
+# N
 
     Namibia
     Nauru
@@ -171,11 +171,11 @@ A List of countries I need to visit
     North Macedonia
     Norway
 
-#O
+# O
 
     Oman
 
-#P
+# P
 
     Pakistan
     Palau
@@ -186,16 +186,16 @@ A List of countries I need to visit
     Philippines
     Poland
 
-#Q
+# Q
 
     Qatar
 
-#R
+# R
 
     Romania
     Rwanda
 
-#S
+# S
 
     Saint Kitts and Nevis
     Saint Lucia
@@ -223,7 +223,7 @@ A List of countries I need to visit
     Switzerland
     Syria
 
-#T
+# T
 
     Taiwan
     Tajikistan
@@ -237,7 +237,7 @@ A List of countries I need to visit
     Turkmenistan
     Tuvalu
 
-#U
+# U
 
     Uganda
     Ukraine
@@ -245,18 +245,18 @@ A List of countries I need to visit
     Uruguay
     Uzbekistan
 
-#V
+# V
 
     Vanuatu
     Vatican City
     Venezuela
     Vietnam
 
-#Y
+# Y
 
     Yemen
 
-#Z
+# Z
 
     Zambia
     Zimbabwe

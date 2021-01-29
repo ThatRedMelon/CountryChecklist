@@ -12,7 +12,6 @@ A List of countries I need to visit
     Argentina
     Armenia
     Australia
-    Austria
 
 # B
 
@@ -65,7 +64,6 @@ A List of countries I need to visit
 
     East Timor (Timor-Leste)
     Ecuador
-    Egypt
     El Salvador
     Equatorial Guinea
     Eritrea
@@ -153,7 +151,6 @@ A List of countries I need to visit
     Moldova
     Monaco
     Mongolia
-    Montenegro
     Morocco
     Mozambique
     Myanmar (Burma)

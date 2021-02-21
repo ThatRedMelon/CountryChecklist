@@ -8,7 +8,6 @@ A List of countries I need to visit
     Algeria
     Andorra
     Angola
-    Antigua and Barbuda
     Argentina
     Armenia
     Australia
@@ -49,13 +48,11 @@ A List of countries I need to visit
     Costa Rica
     Côte d’Ivoire
     Croatia
-    Cuba
     Cyprus
     Czech Republic
 
 # D
 
-    Denmark
     Djibouti
     Dominica
     Dominican Republic
@@ -74,7 +71,6 @@ A List of countries I need to visit
 # F
 
     Fiji
-    Finland
     France
 
 # G
@@ -82,7 +78,6 @@ A List of countries I need to visit
     Gabon
     The Gambia
     Georgia
-    Germany
     Ghana
     Grenada
     Guatemala
@@ -98,12 +93,10 @@ A List of countries I need to visit
 
 # I
 
-    Iceland
     India
     Indonesia
     Iran
     Iraq
-    Ireland
     Israel
 
 # J
@@ -166,7 +159,6 @@ A List of countries I need to visit
     Niger
     Nigeria
     North Macedonia
-    Norway
 
 # O
 
@@ -231,13 +223,11 @@ A List of countries I need to visit
     Trinidad and Tobago
     Tunisia
     Turkey
-    Turkmenistan
     Tuvalu
 
 # U
 
     Uganda
-    Ukraine
     United Arab Emirates
     Uruguay
     Uzbekistan
